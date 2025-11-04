@@ -31,48 +31,84 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 
 <table>
   <tr>
+
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
+
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/mysql-original.svg" width="48" height="48" alt="Sql" />
       </a>
-      <br>Jsonnet
+      <br>MySql
     </td>
+
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/aws-original.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>TypeScript
+      <br>AWS
     </td>
+
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#macropower-tech">
+        <img src="./img/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" />
       </a>
-      <br>Kubernetes
+      <br>Apache Airflow
     </td>
+    
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
+    
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Grafana
+      <br>Kubernetes
     </td>
+
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/githubactions-original" width="48" height="48" alt="Github Actions" />
+      </a>
+      <br>Github Actions
+    </td>
+
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mlflow-original.png" width="48" height="48" alt="MLflow" />
+      </a>
+      <br>MLflow
+    </td>
+
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/DVC-original" width="48" height="48" alt="DVC" />
+      </a>
+      <br>DVC
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="html-original" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="CSS-original" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    
   </tr>
 </table>
 
