@@ -30,6 +30,10 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
 ## 🛠️ Programming & Tools
 
 <table align="center">
@@ -183,9 +187,11 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 </div>
 
 <br>
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<br>
 <br>
 
 ## 📊 GitHub Analytics & Stats
