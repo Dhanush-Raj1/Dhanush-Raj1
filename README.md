@@ -6,7 +6,7 @@
 
 <!-- 🧠 Typing Role Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;AI+Engineer;Data+Analyst+%7C+Problem+Solver;Passionate+about+Building+Intelligent+Systems;Exploring+LLMs+and+Generative+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=I+turn+data+into+actionable+insights;I+build+AI+systems+that+solve+real-world+problems;I+automate+data+pipelines+and+ML+workflows;I+build+AI+solutions+to+businesses;I+love+combining+Data,+ML,+and+AI+to+create+impact" alt="Typing SVG" />
 </h3>
 
 <!-- 🎯 Static Roles -->
@@ -14,24 +14,19 @@
 
 <br>
 
-## 🧠 About Me
+## 👨‍💻 A Little Bit About Me
 
-I’m a **Data Scientist and AI Engineer** passionate about crafting intelligent, data-driven solutions that make a real impact.  
-I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, turning ideas into production-grade systems.  
+I'm a **Data Scientist and AI Engineer** who bridges business and tech — I build intelligent, data-driven ML/AI solutions that make a real impact. With technical expertise and business experience, I understand that great tech must deliver business value.
 
-- 💡 Currently building **AI-powered applications** with **LangChain**, **Groq**, and **LLaMA**  
-- ☁️ Skilled in **Cloud Deployment** (AWS EC2, EKS, Koyeb, Render)  
-- 🧩 Love building **retrieval-based chatbots**, **data pipelines**, and **LLM agents**  
-- 🧠 Lifelong learner in **Generative AI**, **Data Engineering**, and **System Design**  
-- 🎯 Goal: To build scalable, intelligent systems that blend AI with business innovation  
+- 🤖 I specialize in **Machine Learning**, **MLOps pipelines**, **LLM-powered applications**, and **cloud deployments** from prototype to production.
+- 🔧 Currently exploring **agentic AI workflows**, **LLM orchestration frameworks**, and building intelligent multi-agent systems.
+- 💼 Built and deployed **5+ production-grade projects** with pipeline automation, cloud integration and live deployments.
+- 🎯 Goal: To build scalable, intelligent systems that blend AI/ML with business innovation 
 
-📍 Based in **India**  
-📫 Reach me: **dhanush2008raj@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url) | [Portfolio](https://your-portfolio-link)
+✉️ **Open to Data Science & ML Engineering opportunities!**  
+Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful together.
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+📍 Based in Chennai, India
 
 <br>
 
