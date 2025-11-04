@@ -198,10 +198,10 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhanush-Raj1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-       alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhanush-Raj1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" 
+       alt="GitHub Stats" height="160" />
   <!-- Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Dhanush-Raj1&theme=tokyonight&hide_border=true" 
+  <img src="https://streak-stats.demolab.com?user=Dhanush-Raj1&theme=tokyonight&hide_border=true&custom_title=Streak%20Stats" 
        alt="GitHub Streak Stats" height="160" />
 </p>
 
@@ -213,7 +213,7 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 
 <p align="center">
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Raj1&theme=tokyo-night&hide_border=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Raj1&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" 
        alt="Contribution Graph" />
 </p>
 
