@@ -187,12 +187,12 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 </div>
 
 <br>
-<br>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br>
-<br>
+
 
 ## 📊 GitHub Analytics & Stats
 
@@ -220,8 +220,3 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 <p>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
