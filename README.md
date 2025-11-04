@@ -8,7 +8,11 @@
   </a>
 </p>
 
+<br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
 
 ## 🧠 About Me
 
@@ -25,7 +29,11 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 📫 Reach me: **dhanush2008raj@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url) | [Portfolio](https://your-portfolio-link)
 
+<br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
 
 ## 🛠️ Programming & Tools
 
@@ -100,6 +108,19 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
   </tr>
 </table>
 
+<br>
+
+## 🛠️ AI & LLM Frameworks 
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Langchain" />
+      </a>
+      <br>Langchain
+    </td>
+    
 <br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
