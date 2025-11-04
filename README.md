@@ -1,18 +1,19 @@
 <!-- 👋 Introduction -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /> 
-  Hey there, I'm <a href="https://github.com/Dhanush-Raj1" target="_blank">Dhanush Raj</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px" />
+  Hey, I'm Dhanush Raj
 </h1>
 
-<!-- 🧠 Typing Role Animation -->
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=I+turn+data+into+actionable+insights;I+build+AI+systems+that+solve+real-world+problems;I+automate+data+pipelines+and+ML+workflows;I+build+AI+solutions+to+businesses;I+love+combining+Data,+ML,+and+AI+to+create+impact" alt="Typing SVG" />
-</h3>
+<!-- Dynamic Typing Animation -->
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&height=40&lines=I+turn+data+into+actionable+insights;I+build+AI+systems+that+solve+real-world+problems;I+automate+data+pipelines+and+ML+workflows;I+love+combining+Data,+ML,+and+AI+to+create+impact" alt="Professional Expertise" />
+</div>
 
 <!-- 🎯 Static Roles -->
-<h3 align="center">Aspiring Data Scientist | Machine Learning Engineer | AI Engineer</h3>
+<h3 align="center">Aspiring Data Scientist | ML Engineer | AI Developer</h3>
 
 <br>
+
 
 ## 👨‍💻 A Little Bit About Me
 
