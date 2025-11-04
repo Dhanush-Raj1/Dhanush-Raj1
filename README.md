@@ -8,8 +8,6 @@
   </a>
 </p>
 
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🧠 About Me
@@ -27,36 +25,62 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 📫 Reach me: **dhanush2008raj@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url) | [Portfolio](https://your-portfolio-link)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛠️ Programming & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq%20LLM-FF4500?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
 
 ## 🚀 Featured Projects
 
@@ -80,8 +104,6 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 
 </div>
 
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Analytics
@@ -92,8 +114,6 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush2008raj&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -106,8 +126,6 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 
 </div>
 
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💬 Connect With Me
@@ -118,6 +136,5 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
   <a href="https://github.com/dhanush2008raj"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 ⭐ **"Building intelligent systems that make data come alive."**
