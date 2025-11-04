@@ -69,31 +69,31 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/githubactions-original" width="48" height="48" alt="Github Actions" />
+        <img src="./img/githubactions-original.svg" width="48" height="48" alt="Github Actions" />
       </a>
       <br>Github Actions
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/mlflow-original.png" width="48" height="48" alt="MLflow" />
+        <img src="./img/mlflow-original.svg" width="48" height="48" alt="MLflow" />
       </a>
       <br>MLflow
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/DVC-original" width="48" height="48" alt="DVC" />
+        <img src="./img/DVC-original.png" width="48" height="48" alt="DVC" />
       </a>
       <br>DVC
     </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="html-original" width="48" height="48" alt="HTML" />
+        <img src="html-original.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="CSS-original" width="48" height="48" alt="CSS" />
+        <img src="CSS-original.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
