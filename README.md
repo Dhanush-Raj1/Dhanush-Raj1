@@ -47,7 +47,7 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
       <a href="#macropower-tech">
         <img src="./img/aws-original.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>AWS
+      <br>Amazon Web Service
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -83,17 +83,17 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
       <a href="#macropower-tech">
         <img src="./img/DVC-original.png" width="48" height="48" alt="DVC" />
       </a>
-      <br>DVC
+      <br>Data Version Control
     </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="html-original.png" width="48" height="48" alt="HTML" />
+        <img src="./img/html-original.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="CSS-original.png" width="48" height="48" alt="CSS" />
+        <img src="./img/CSS-original.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
