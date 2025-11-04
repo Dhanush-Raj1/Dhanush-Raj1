@@ -201,8 +201,9 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhanush-Raj1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" 
        alt="GitHub Stats" height="160" />
   <!-- Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=Dhanush-Raj1&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Dhanush-Raj1&theme=tokyonight&hide_border=true" 
        alt="GitHub Streak Stats" height="160" />
+
 </p>
 
 <p align="center">
