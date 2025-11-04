@@ -1,16 +1,16 @@
-<!-- Banner / Typing Intro -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Dhanush Raj</span></h1>
-<h3 align="center">🚀 Data Scientist | AI Engineer | MLOps Enthusiast</h3>
+<!-- 👋 Introduction -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /> 
+  Hey there, I'm <a href="https://github.com/Dhanush-Raj1" target="_blank">Dhanush Raj</a>
+</h1>
 
-<p align="center">
-  <a href="https://github.com/dhanush2008raj">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=Data+Scientist;AI+Engineer;MLOps+Developer;LLM+and+RAG+Specialist;Turning+data+into+intelligence!">
-  </a>
-</p>
+<!-- 🧠 Typing Role Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;AI+Engineer;Data+Analyst+%7C+Problem+Solver;Passionate+about+Building+Intelligent+Systems;Exploring+LLMs+and+Generative+AI" alt="Typing SVG" />
+</h3>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- 🎯 Static Roles -->
+<h3 align="center">Aspiring Data Scientist | Machine Learning Engineer | AI Engineer</h3>
 
 <br>
 
@@ -37,7 +37,7 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 
 ## 🛠️ Programming & Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -112,14 +112,52 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 
 ## 🛠️ AI & LLM Frameworks 
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Langchain" />
+        <img src="./img/langchain-logo.svg" width="48" height="48" alt="Langchain" />
       </a>
-      <br>Langchain
+      <br>Langchain - Langgraph 
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/llamaindex.jpeg" width="48" height="48" alt="LlamaIndex" />
+      </a>
+      <br>LlamaIndex
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/agno.jpeg" width="48" height="48" alt="Agno" />
+      </a>
+      <br>Agno
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/crewai.jpeg" width="48" height="48" alt="CrewAI" />
+      </a>
+      <br>CrewAI
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/groq.png" width="48" height="48" alt="Groq API" />
+      </a>
+      <br>Groq API
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/huggingface.png" width="48" height="48" alt="Hugging Face" />
+      </a>
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/Ollama.png" width="48" height="48" alt="Ollama" />
+      </a>
+      <br>Ollama
+    </td>
+  </tr>
+</table>
     
 <br>
 
@@ -132,54 +170,57 @@ I specialize in **Machine Learning**, **Large Language Models**, and **MLOps**, 
 <div align="center">
 
   <a href="https://github.com/dhanush2008raj/Data-Science-Salary-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush2008raj&repo=Data-Science-Salary-Prediction&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Data-Science-Salary-Project&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/dhanush2008raj/Customer-Churn-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush2008raj&repo=Customer-Churn-Prediction&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Customer-Churn-Project&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/dhanush2008raj/Ecommerce-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush2008raj&repo=Ecommerce-Chatbot&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Ecommerce-Chatbot-Project&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/dhanush2008raj/Product-Search-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush2008raj&repo=Product-Search-Agent&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Product-Search-Agent-Project&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/dhanush2008raj/Gmail-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanush2008raj&repo=Gmail-Assistant&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Gmail-Assistant-Project&theme=tokyonight&hide_border=false" />
   </a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanush2008raj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush2008raj&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🌱 Contribution Activity
+<br>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dhanush2008raj&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanush2008raj&theme=tokyo-night&hide_border=true)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 💬 Connect With Me
+## 📊 GitHub Analytics & Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dhanush2008raj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dhanush2008raj"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhanush-Raj1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+       alt="GitHub stats" height="160" />
+  <!-- Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=Dhanush-Raj1&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak Stats" height="160" />
 </p>
 
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhanush-Raj1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+       alt="Top Languages" height="160" />
+</p>
 
-⭐ **"Building intelligent systems that make data come alive."**
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-Raj1&theme=tokyo-night&hide_border=true" 
+       alt="Contribution Graph" />
+</p>
+
+<p>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.</p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
