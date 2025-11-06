@@ -25,7 +25,7 @@ I'm a **Data Scientist and AI Engineer** who bridges business and tech — I bui
 - 🎯 Goal: To build scalable, intelligent systems that blend AI/ML with business innovation 
 
 ✉️ **Open to Data Science & ML/AI Engineering opportunities!**  
-Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful together.
+Drop me an email at info.dhanushraj@gmail.com — Let's build something impactful together.
 
 📍 Based in Chennai, India
 
