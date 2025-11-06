@@ -165,7 +165,7 @@ Drop me an email at dhanush1004raj@gmail.com — Let's build something impactful
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Production-Ready Projects
 
 <div align="center">
 
