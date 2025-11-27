@@ -17,7 +17,7 @@
 
 ## 👨‍💻 A Little Bit About Me
 
-I'm a **Data Scientist and AI Engineer** who bridges business and tech — I build intelligent, data-driven ML/AI solutions that make a real impact. With technical expertise and business experience, I understand that great tech must deliver business value.
+I'm a **AI/ML Engineer** who bridges business and tech — I build intelligent, data-driven AI/ML solutions that make a real impact. With technical expertise and business experience, I understand that great tech must deliver business value.
 
 - 🤖 I specialize in **Machine Learning**, **MLOps pipelines**, **LLM-powered applications**, and **cloud deployments** from prototype to production.
 - 🔧 Currently exploring **agentic AI workflows**, **LLM orchestration frameworks**, and building intelligent multi-agent systems.
