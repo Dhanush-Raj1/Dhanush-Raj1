@@ -10,7 +10,7 @@
 </div>
 
 <!-- 🎯 Static Roles -->
-<h3 align="center">Aspiring Data Scientist | ML Engineer | AI Developer</h3>
+<h3 align="center">AI Engineer | ML Engineer | Data Scientist</h3>
 
 <br>
 
