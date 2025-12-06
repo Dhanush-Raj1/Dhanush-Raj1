@@ -203,13 +203,13 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Ecommerce-Chatbot-Project&theme=tokyonight&hide_border=false" />
   </a>
   <a href="https://github.com/Dhanush-Raj1/Product-Search-Agent-Project">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Product-Search-Agent-Project&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Product-Search-Agent-Project&theme=tokyonight&hide_border=false" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Dhanush-Raj1/Gmail-Assistant-Project">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Gmail-Assistant-Project&theme=tokyonight&hide_border=false" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Gmail-Assistant-Project&theme=tokyonight&hide_border=false" />
   </a>
 </div>
 
