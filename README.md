@@ -167,30 +167,6 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 
 ## 🚀 Production-Ready Projects
 
-<div align="center">
-
-  <a href="https://github.com/Dhanush-Raj1/Data-Science-Salary-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Data-Science-Salary-Project&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/Dhanush-Raj1/Customer-Churn-Project">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Customer-Churn-Project&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/Dhanush-Raj1/Ecommerce-Chatbot-Project">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Ecommerce-Chatbot-Project&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/Dhanush-Raj1/Product-Search-Agent-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Product-Search-Agent-Project&theme=tokyonight&hide_border=false" />
-  </a>
-  <a href="https://github.com/Dhanush-Raj1/Gmail-Assistant-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanush-Raj1&repo=Gmail-Assistant-Project&theme=tokyonight&hide_border=false" />
-  </a>
-
-</div>
-
-<br>
-
-## 🚀 Production-Ready Projects
-
 ### [📊 Data Science Salary Project](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)
 A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.
 
@@ -205,6 +181,8 @@ An intelligent search agent that helps users find products efficiently using adv
 
 ### [📧 Gmail Assistant Project](https://github.com/Dhanush-Raj1/Gmail-Assistant-Project)
 An AI-powered assistant that helps manage Gmail inbox, automate responses, and organize emails intelligently.
+
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
