@@ -189,6 +189,23 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 
 <br>
 
+## 🚀 Production-Ready Projects
+
+### [📊 Data Science Salary Project](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)
+A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.
+
+### [👥 Customer Churn Project](https://github.com/Dhanush-Raj1/Customer-Churn-Project)
+A machine learning model that predicts whether a customer is likely to churn or not, helping businesses retain valuable customers.
+
+### [🛍️ Ecommerce Chatbot Project](https://github.com/Dhanush-Raj1/Ecommerce-Chatbot-Project)
+A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
+
+### [🔍 Product Search Agent Project](https://github.com/Dhanush-Raj1/Product-Search-Agent-Project)
+An intelligent search agent that helps users find products efficiently using advanced search algorithms and natural language processing.
+
+### [📧 Gmail Assistant Project](https://github.com/Dhanush-Raj1/Gmail-Assistant-Project)
+An AI-powered assistant that helps manage Gmail inbox, automate responses, and organize emails intelligently.
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br>
