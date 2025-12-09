@@ -168,24 +168,24 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 ## 🚀 Production-Ready Projects
 
 ### [📊 Data Science Salary Project](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)  
-A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.  
-👉 [Access the web app here](https://data-science-salary-project.onrender.com/)  
+- A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.  
+- 👉 [Access the web app here](https://data-science-salary-project.onrender.com/)  
 
-### [👥 Customer Churn Project](https://github.com/Dhanush-Raj1/Customer-Churn-Project)
-- 👉 [Access the web app here](https://ideological-tawnya-dhanushraj-7934196e.koyeb.app/)  
-A machine learning model that predicts whether a customer is likely to churn or not, helping businesses retain valuable customers.
+### [👥 Customer Churn Project](https://github.com/Dhanush-Raj1/Customer-Churn-Project) 
+- A machine learning model that predicts whether a customer is likely to churn or not, helping businesses retain valuable customers.
+- 👉 [Access the web app here](https://ideological-tawnya-dhanushraj-7934196e.koyeb.app/) 
 
 ### [🛍️ Ecommerce Chatbot Project](https://github.com/Dhanush-Raj1/Ecommerce-Chatbot-Project)
-- 👉 [Access the web app here](https://ecommerce-chatbot-project-0p27.onrender.com/)  
-A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
+ - A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
+- 👉 [Access the web app here](https://ecommerce-chatbot-project-0p27.onrender.com/) 
 
 ### [🔍 Product Search Agent Project](https://github.com/Dhanush-Raj1/Product-Search-Agent-Project)
+- An intelligent search agent that helps users find products efficiently using advanced search algorithms and natural language processing.
 - 👉 [Access the web app here](https://product-search-agent-project.onrender.com/)  
-An intelligent search agent that helps users find products efficiently using advanced search algorithms and natural language processing.
 
-### [📧 Gmail Assistant Project](https://github.com/Dhanush-Raj1/Gmail-Assistant-Project)
-- 👉 [Access the web app here](https://gmail-assistant-project.streamlit.app/)  
-An AI-powered assistant that helps manage Gmail inbox, automate responses, and organize emails intelligently.
+### [📧 Gmail Assistant Project](https://github.com/Dhanush-Raj1/Gmail-Assistant-Project)  
+- An AI-powered assistant that helps manage Gmail inbox, automate responses, and organize emails intelligently.
+- 👉 [Access the web app here](https://gmail-assistant-project.streamlit.app/)
 
 <br>
 
