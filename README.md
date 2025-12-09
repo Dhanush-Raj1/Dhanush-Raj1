@@ -167,9 +167,9 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 
 ## 🚀 Production-Ready Projects
 
-### [📊 Data Science Salary Project](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)
-- 👉 [Access the web app here](https://data-science-salary-project.onrender.com/)  
-A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.
+### [📊 Data Science Salary Project](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)  
+A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.  
+👉 [Access the web app here](https://data-science-salary-project.onrender.com/)  
 
 ### [👥 Customer Churn Project](https://github.com/Dhanush-Raj1/Customer-Churn-Project)
 - 👉 [Access the web app here](https://ideological-tawnya-dhanushraj-7934196e.koyeb.app/)  
