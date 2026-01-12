@@ -19,9 +19,9 @@
 
 I'm a **AI/ML Engineer** who bridges business and tech — I build intelligent, data-driven AI/ML solutions that make a real impact. With technical expertise and business experience, I understand that great tech must deliver business value.
 
-- 🤖 I specialize in **Machine Learning**, **MLOps pipelines**, **LLM-powered applications**, and **cloud deployments** from prototype to production.
-- 🔧 Currently exploring **agentic AI workflows**, **LLM orchestration frameworks**, and building intelligent multi-agent systems.
-- 💼 Built and deployed **5+ production-grade projects** with pipeline automation, cloud integration and live deployments.
+- 🤖 I specialize in **AI Agents**, **RAG-powered Applications**, **LLM-powered Applications**, **Machine Learning**, **MLOps Pipelines**, and **cloud deployments**.
+- 🔧 Currently building **agentic AI workflows**, **LLM orchestration frameworks**, and intelligent multi-agent systems.
+- 💼 Built and deployed **6+ production-grade projects** AI/ML systems with pipeline automation, cloud integration and live deployments.
 - 🎯 Goal: To build scalable, intelligent systems that blend AI/ML with business innovation 
 
 ✉️ **Open to Data Science & ML/AI Engineering opportunities!**  
@@ -167,21 +167,25 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 
 ## 🚀 Production-Ready Projects
 
+### [🛍️ Ecommerce Chatbot Project](https://github.com/Dhanush-Raj1/Ecommerce-Chatbot-Project)
+- A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
+- 👉 [Access the project here](https://ecommerce-chatbot-project-0p27.onrender.com/)
+
+### [🛍️ Voice Agent Project](https://github.com/Dhanush-Raj1/Voice-Agent-Project)
+- A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
+- 👉 [Access the project here](https://voice-agent-project-eszo.onrender.com)
+
+### [🔍 Product Search Agent Project](https://github.com/Dhanush-Raj1/Product-Search-Agent-Project)
+- An intelligent search agent that helps users find products efficiently using advanced search algorithms and natural language processing.
+- 👉 [Access the project here](https://product-search-agent-project.onrender.com/) 
+  
 ### [📊 Data Science Salary Project](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)  
 - A comprehensive analysis and prediction model for data science salaries across different roles, experience levels, and locations.  
 - 👉 [Access the project here](https://data-science-salary-project.onrender.com/)  
 
 ### [👥 Customer Churn Project](https://github.com/Dhanush-Raj1/Customer-Churn-Project) 
 - A machine learning model that predicts whether a customer is likely to churn or not, helping businesses retain valuable customers.
-- 👉 [Access the project here](https://ideological-tawnya-dhanushraj-7934196e.koyeb.app/) 
-
-### [🛍️ Ecommerce Chatbot Project](https://github.com/Dhanush-Raj1/Ecommerce-Chatbot-Project)
- - A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
-- 👉 [Access the project here](https://ecommerce-chatbot-project-0p27.onrender.com/) 
-
-### [🔍 Product Search Agent Project](https://github.com/Dhanush-Raj1/Product-Search-Agent-Project)
-- An intelligent search agent that helps users find products efficiently using advanced search algorithms and natural language processing.
-- 👉 [Access the project here](https://product-search-agent-project.onrender.com/)  
+- 👉 [Access the project here](https://ideological-tawnya-dhanushraj-7934196e.koyeb.app/)  
 
 ### [📧 Gmail Assistant Project](https://github.com/Dhanush-Raj1/Gmail-Assistant-Project)  
 - An AI-powered assistant that helps manage Gmail inbox, automate responses, and organize emails intelligently.
