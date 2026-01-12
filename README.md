@@ -172,7 +172,7 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 - 👉 [Access the project here](https://ecommerce-chatbot-project-0p27.onrender.com/)
 
 ### [🛍️ Voice Agent Project](https://github.com/Dhanush-Raj1/Voice-Agent-Project)
-- A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
+- Real-time AI-powered Voice Assistant with RAG, Document Intelligence-answer questions from uploaded pdf and searchs web.
 - 👉 [Access the project here](https://voice-agent-project-eszo.onrender.com)
 
 ### [🔍 Product Search Agent Project](https://github.com/Dhanush-Raj1/Product-Search-Agent-Project)
