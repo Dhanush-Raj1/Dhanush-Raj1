@@ -179,7 +179,8 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 
 ### [🔍 Voice Assistant (Real Time)](https://github.com/Dhanush-Raj1/Voice-Agent-Project)  
 - A real-time voice-based AI assistant that allows users to interact naturally through speech, answer questions using web search, and uploaded PDFs, and provide intelligent responses.  
-- 👉 [Access the project here](https://voice-agent-project-eszo.onrender.com)   
+- 👉 [Access the project here](https://voice-agent-project-eszo.onrender.com)
+- **For best experience access the project on Chrome.**   
 <br>  
 
 ### [📊 Data Science Salary Estimator](https://github.com/Dhanush-Raj1/Data-Science-Salary-Project)  
