@@ -24,7 +24,7 @@ I'm a **AI/ML Engineer** who bridges business and tech — I build intelligent, 
 - 💼 Built and deployed **6+ production-grade projects** AI/ML systems with pipeline automation, cloud integration and live deployments.
 - 🎯 Goal: To build scalable, intelligent systems that blend AI/ML with business innovation 
 
-✉️ **Open to Data Science & ML/AI Engineering opportunities!**  
+✉️ **Open to AI/ML Engineering & Data Science opportunities!**  
 Drop me an email at info.dhanushraj@gmail.com — Let's build something impactful together.
 
 📍 Based in Chennai, India
