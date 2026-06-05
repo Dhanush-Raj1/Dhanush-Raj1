@@ -167,6 +167,11 @@ Drop me an email at info.dhanushraj@gmail.com — Let's build something impactfu
 
 ## 🚀 Production-Ready Projects
 
+### [🛍️ FullStack-RAG-Application](https://github.com/Dhanush-Raj1/FullStack-RAG-Application-Project)
+- Production-ready RAG system built with FastAPI and React. Upload and query documents with semantic search, cross-encoder reranking, and grounded LLM answers powered by Groq and Gemini..
+- 👉 [Access the project here](https://rag-frontend-b75n.onrender.com/)
+<br>
+
 ### [🛍️ Ecommerce Chatbot RAG](https://github.com/Dhanush-Raj1/Ecommerce-Chatbot-Project)
 - A GenAI-powered chatbot for an ecommerce clothing store that answers user queries, provides recommendations, tracks orders and more.
 - 👉 [Access the project here](https://ecommerce-chatbot-project-0p27.onrender.com/)
